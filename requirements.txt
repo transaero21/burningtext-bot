@@ -1,2 +1,5 @@
 aiogram~=3.18.0
+fastapi~=0.115.8
+nest-asyncio~=1.6.0
 requests~=2.32.3
+uvicorn~=0.34.0
